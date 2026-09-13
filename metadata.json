@@ -1,0 +1,6 @@
+{
+  "name": "Study DNA Studio",
+  "description": "An adaptive study system that learns how an individual student actually studies and continuously changes their routine based on evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
